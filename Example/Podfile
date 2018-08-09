@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Env_Tests' do
+  pod 'Env', :path => '../'
+  
+  
+end

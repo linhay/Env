@@ -1,0 +1,16 @@
+PODS:
+  - Env (0.1.0)
+
+DEPENDENCIES:
+  - Env (from `../`)
+
+EXTERNAL SOURCES:
+  Env:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Env: 245bd00060cd3e74bebdc26485184c30320dba6a
+
+PODFILE CHECKSUM: 95484a1fed8f1dddbc025e4d5df90c65ce7d9b9e
+
+COCOAPODS: 1.5.3
